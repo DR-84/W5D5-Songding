@@ -16,7 +16,7 @@ class SongOverview extends React.Component {
 		this.sortArtist = this.sortArtist.bind(this);
 		this.makeid = this.makeid.bind(this);
 	}
-
+	//werruk nie, super stom!
 	makeid() {
 		console.log('makeId is activated');
 		var characters =
